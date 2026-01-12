@@ -1,0 +1,6 @@
+name: NotSuspiciousJar
+version: '1.0-SNAPSHOT'
+main: org.jensen.notSuspiciousJar.NotSuspiciousJar
+api-version: '1.21'
+authors: [Harald Jensen]
+website: https://github.com/HaraldErik
